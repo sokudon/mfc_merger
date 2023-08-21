@@ -1,0 +1,10 @@
+C:\Users\imasp\source\repos\MFCマージツール\MFCマージツール\obj\Release\MFCマージツール.csproj.AssemblyReference.cache
+C:\Users\imasp\source\repos\MFCマージツール\MFCマージツール\obj\Release\MFCマージツール.Form1.resources
+C:\Users\imasp\source\repos\MFCマージツール\MFCマージツール\obj\Release\MFCマージツール.csproj.GenerateResource.cache
+C:\Users\imasp\source\repos\MFCマージツール\MFCマージツール\obj\Release\MFCマージツール.csproj.CoreCompileInputs.cache
+C:\Users\imasp\source\repos\MFCマージツール\MFCマージツール\bin\Release\MFC_eamu_merger.exe.config
+C:\Users\imasp\source\repos\MFCマージツール\MFCマージツール\bin\Release\MFC_eamu_merger.exe
+C:\Users\imasp\source\repos\MFCマージツール\MFCマージツール\bin\Release\MFC_eamu_merger.pdb
+C:\Users\imasp\source\repos\MFCマージツール\MFCマージツール\obj\Release\MFC_eamu_merger.Properties.Resources.resources
+C:\Users\imasp\source\repos\MFCマージツール\MFCマージツール\obj\Release\MFC_eamu_merger.exe
+C:\Users\imasp\source\repos\MFCマージツール\MFCマージツール\obj\Release\MFC_eamu_merger.pdb
