@@ -178,8 +178,18 @@ namespace MFCマージツール
 
             return;
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            string data = "";
+            string name = listBox1.Items[0].ToString();
+            MatchCollection mc = Regex.Matches(name, @"\d+MFC");
+
+            if (mc.Count > 0) { }
+            data = mc[0].Value;
+
+
+            File.WriteAllText(@data+"_merged.csv", textBox1.Text);
+        }
+        }
     }
-
-
-}
-
